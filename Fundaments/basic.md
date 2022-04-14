@@ -4,6 +4,10 @@
 
 - You can initialize a proyect folder as a git repository.
   `$ git init`
+  ```
+  git init
+  
+  ```
 - You can download the repository into your local storage.
   `$ git clone "URL repo"`
 
