@@ -6,7 +6,6 @@
   `$ git init`
   ```
   git init
-  
   ```
 - You can download the repository into your local storage.
   `$ git clone "URL repo"`
@@ -36,3 +35,14 @@
   `$ git marge "branch name"`
 - _Abort the action_ if there are any conflicts.
   `$ git merge -abort`
+
+### To observe your Repository.
+
+- Dsiplay the state of the working directory and the stating area. (More informaticon)
+  `$ git status`
+- You can to get status in short form.
+ `$ git status -s`
+- Display changes between commits or between commit and saved files.
+ `$ git diff`
+-  Display commit logs and diff output each commit introduces.
+ `$ git whatchanged`
