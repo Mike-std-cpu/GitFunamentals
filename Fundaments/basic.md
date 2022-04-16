@@ -57,8 +57,8 @@
  `$ git reset`
 - Commit staged files.
   `$ git commit -m " massage of commit"`
-Take uncommited changes (staged and unstaged) and saves them away for later use. Later thene
+<br>Take uncommited changes (staged and unstaged) and saves them away for later use. <br> Later thene
 revert them from working copy
  `$ git stash`
 
- ## Update with img for visual entendm.
+ ## Update with img for visual entendm.|
