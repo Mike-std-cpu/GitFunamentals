@@ -46,3 +46,19 @@
  `$ git diff`
 -  Display commit logs and diff output each commit introduces.
  `$ git whatchanged`
+
+ ### to Make Chnages
+
+ - Stage the unstaged file.
+  `$ git add "File name"`
+- Stage all files together in geneal.
+ `$ git add`
+- To unstage files.
+ `$ git reset`
+- Commit staged files.
+  `$ git commit -m " massage of commit"`
+Take uncommited changes (staged and unstaged) and saves them away for later use. Later thene
+revert them from working copy
+ `$ git stash`
+
+ ## Update with img for visual entendm.
