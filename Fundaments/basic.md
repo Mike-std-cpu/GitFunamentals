@@ -47,7 +47,7 @@
 -  Display commit logs and diff output each commit introduces.
  `$ git whatchanged`
 
- ### to Make Chnages
+ ### to Make Changes
 
  - Stage the unstaged file.
   `$ git add "File name"`
